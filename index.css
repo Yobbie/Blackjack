@@ -1,0 +1,45 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #0d0e0d;
+    text-align: center;
+    color: #ffffff;
+    font-weight: bold;
+
+}
+
+h1 {
+    color: #8f6e94;  
+
+}
+
+#message-el {
+    font-style: italic;
+
+}
+
+button {
+    color: #8f6e94;
+    width: 150px;
+    background-color: #2e2430;
+    padding: 5px 0 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 5px;
+    margin-top: 2px;
+    margin-bottom: 2px;   
+
+}
+
+button:hover {
+    color: #0d0e0d;
+    background-color: #b189b6;
+ }
+
+#player-el {
+    font-style: italic;
+    font-weight: lighter;
+    color: #7da5a5bb;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 17px;
+    
+}
